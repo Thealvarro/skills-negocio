@@ -1,3 +1,9 @@
+<div align="center">
+
+![skills-negocio — Skills de IA para emprendedores y negocios reales](assets/banner.png)
+
+</div>
+
 # Skills para tu negocio
 
 **5 skills gratis para Claude y ChatGPT.** Para gente que tiene un negocio, no para programadores.
